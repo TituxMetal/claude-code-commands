@@ -1,7 +1,8 @@
-# GitHub Manager Agent
-
-Specialized sub-agent for managing GitHub operations including issues, pull requests, labels, and
-repository metadata.
+---
+name: "GitHub Manager"
+title: "GitHub Manager Agent"
+description: "Specialized sub-agent for managing GitHub operations including issues, pull requests, labels, and repository metadata."
+---
 
 ## Agent Role
 

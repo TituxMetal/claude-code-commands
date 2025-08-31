@@ -1,7 +1,8 @@
-# Template Processor Agent
-
-Specialized sub-agent for loading, processing, and generating content from templates for commits,
-pull requests, and issues.
+---
+name: "Template Processor"
+title: "Template Processor Agent"
+description: "Specialized sub-agent for loading, processing, and generating content from templates for commits, pull requests, and issues."
+---
 
 ## Agent Role
 

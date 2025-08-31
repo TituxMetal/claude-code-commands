@@ -1,5 +1,9 @@
 # Issue Template
 
+## Content Guidelines
+
+**IMPORTANT**: Never add AI signatures, credits, or "Generated with Claude Code" messages to issue descriptions. All issue content should appear as authored by the user, not the AI. Generate clean, professional issue descriptions without Claude/AI attribution.
+
 ## Title
 
 {{issue_title}}

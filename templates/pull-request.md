@@ -1,5 +1,9 @@
 # Pull Request Template
 
+## Content Guidelines
+
+**IMPORTANT**: Never add AI signatures, credits, or "Generated with Claude Code" messages to pull request descriptions. All PR content should appear as authored by the user, not the AI. Generate clean, professional PR descriptions without Claude/AI attribution.
+
 ## Summary
 
 {{summary}}

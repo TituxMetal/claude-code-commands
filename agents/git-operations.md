@@ -1,7 +1,8 @@
-# Git Operations Agent
-
-Specialized sub-agent for managing git repository operations including branch management, commits,
-pushes, and repository state maintenance.
+---
+name: "Git Operations Manager"
+title: "Git Operations Agent"
+description: "Specialized sub-agent for managing git repository operations including branch management, commits, pushes, and repository state maintenance."
+---
 
 ## Agent Role
 

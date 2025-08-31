@@ -1,5 +1,9 @@
 # Commit Message Template
 
+## Content Guidelines
+
+**IMPORTANT**: Never add AI signatures, credits, or "Generated with Claude Code" messages to commit messages. All commit messages should appear as authored by the user, not the AI. Generate clean, professional commit messages without Claude/AI attribution.
+
 ## Conventional Commit Format
 
 ```text
